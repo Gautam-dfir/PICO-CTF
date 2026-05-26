@@ -143,7 +143,7 @@ if __name__ == "__main__":
 
 Screenshot of the script:
 
-![Timing attack script](images/03_attack_script.png)
+![Timing attack script](images/Screenshot_2026-05-26_17_26_50.png)
 
 ## Running the Script
 
@@ -155,7 +155,7 @@ chmod +x timing_attack.py
 ./timing_attack.py
 ```
 
-![Running the timing attack script](images/04_running_attack.png)
+![Running the timing attack script](images/06_final_pin_and_flag.png)
 
 The timing difference showed which digit was correct at each position. The script recovered the PIN step by step.
 
@@ -205,7 +205,7 @@ I entered the recovered PIN:
 
 The server accepted the PIN and printed the flag:
 
-![Final PIN and flag](images/06_final_pin_and_flag.png)
+![Final PIN and flag](images/Screenshot_2026-05-26_17_27_24.png)
 
 ## Flag
 
